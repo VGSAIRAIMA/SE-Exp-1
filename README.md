@@ -64,5 +64,4 @@ Design the database with tables for Customer, Account, and Transaction.
 
 # RESULT:
 
-Thus the ATM & BANKING SYSTEM<img width="1221" height="896" alt="USECASE_DIAG" src="https://github.com/user-attachments/assets/8469bf28-335c-4428-abb5-75a9eb3c1da1" />
- project was executed and the output was verified.
+Thus the ATM & BANKING SYSTEM project was executed and the output was verified.
